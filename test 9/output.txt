@@ -1,0 +1,119 @@
+Elevador Subiendo
+Elevador en piso 5
+Piso ingresado 2
+Elevador se detiene en piso 5
+Elevador Subiendo
+Elevador en piso 6
+Elevador Subiendo
+Elevador en piso 7
+Elevador Subiendo
+Elevador en piso 8
+Elevador Subiendo
+Elevador en piso 9
+Elevador Subiendo
+Elevador en piso 10
+Piso ingresado 1
+Elevador Subiendo
+Elevador en piso 11
+Elevador Subiendo
+Elevador en piso 12
+Elevador Subiendo
+Elevador en piso 13
+Piso ingresado 1
+Elevador Subiendo
+Elevador en piso 14
+Elevador Subiendo
+Elevador en piso 15
+Elevador Subiendo
+Elevador en piso 16
+Elevador Subiendo
+Elevador en piso 17
+Elevador Subiendo
+Elevador en piso 18
+Elevador Subiendo
+Elevador en piso 19
+Elevador Subiendo
+Elevador en piso 20
+Elevador Subiendo
+Elevador en piso 21
+Elevador Subiendo
+Elevador en piso 22
+Elevador Subiendo
+Elevador en piso 23
+Elevador Subiendo
+Elevador en piso 24
+Elevador Subiendo
+Elevador en piso 25
+Elevador Subiendo
+Elevador en piso 26
+Elevador Subiendo
+Elevador en piso 27
+Elevador Subiendo
+Elevador en piso 28
+Elevador Subiendo
+Elevador en piso 29
+Piso ingresado 10
+Elevador se detiene en piso 29
+Elevador Bajando
+Elevador en piso 28
+Elevador Bajando
+Elevador en piso 27
+Elevador Bajando
+Elevador en piso 26
+Elevador Bajando
+Elevador en piso 25
+Elevador Bajando
+Elevador en piso 24
+Elevador Bajando
+Elevador en piso 23
+Elevador Bajando
+Elevador en piso 22
+Elevador Bajando
+Elevador en piso 21
+Elevador Bajando
+Elevador en piso 20
+Elevador Bajando
+Elevador en piso 19
+Elevador Bajando
+Elevador en piso 18
+Elevador Bajando
+Elevador en piso 17
+Elevador Bajando
+Elevador en piso 16
+Elevador Bajando
+Elevador en piso 15
+Elevador Bajando
+Elevador en piso 14
+Elevador Bajando
+Elevador en piso 13
+Piso ingresado 1
+Elevador se detiene en piso 13
+Elevador Bajando
+Elevador en piso 12
+Elevador Bajando
+Elevador en piso 11
+Elevador Bajando
+Elevador en piso 10
+Piso ingresado 1
+Elevador se detiene en piso 10
+Elevador Bajando
+Elevador en piso 9
+Elevador Bajando
+Elevador en piso 8
+Elevador Bajando
+Elevador en piso 7
+Elevador Bajando
+Elevador en piso 6
+Elevador Bajando
+Elevador en piso 5
+Piso ingresado 2
+Elevador Bajando
+Elevador en piso 4
+Elevador Bajando
+Elevador en piso 3
+Elevador Bajando
+Elevador en piso 2
+Elevador se detiene en piso 2
+Elevador Bajando
+Elevador en piso 1
+Elevador se detiene en piso 1
