@@ -25,13 +25,20 @@ in this folder there are the following files:
    Pisos ingresados: {5:2, 29: 10, 13: 1, 10:1}:
 
    
-   5 
-   2           
-   29          
-   10               
-   13          
-   1           
-   10         
+   5
+   
+   2
+              
+   29
+             
+   10
+                  
+   13
+             
+   1
+              
+   10
+            
    1
 
    
