@@ -22,7 +22,7 @@ in this folder there are the following files:
    Subiendo
    5 29 13 10 -> Arreglo de pisos
    4 -> cantidad de Pisos ingresados
-   Pisos ingresados: {5:2, 29: 10, 13: 1, 10:1}:
+   Pisos ingresados {5:2, 29: 10, 13: 1, 10:1}:
 
    
    5
