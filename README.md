@@ -23,6 +23,8 @@ in this folder there are the following files:
    5 29 13 10 -> Arreglo de pisos
    4 -> cantidad de Pisos ingresados
    Pisos ingresados: {5:2, 29: 10, 13: 1, 10:1}:
+
+   
    5 
    2           
    29          
@@ -31,6 +33,8 @@ in this folder there are the following files:
    1           
    10         
    1
+
+   
 5. output.txt: is the answer for this problem.
 for run elevator.py:
 python3 elevator.py < input.txt > out.txt
